@@ -1,4 +1,4 @@
-[![MasterHead]http://clipart-library.com/animated-welcome-banner.htmll]
+<img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
 <h1 align="center">Hi 👋, I'm Apuabi Titilope</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 https://www.nature.com/articles/d41586-019-00653-5
