@@ -2,7 +2,6 @@
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
 <h1 align="center"> I'm Apuabi Titilope</h1>
 <h3 align="center">A passionate Full stack developer from Lagos, Nigeria</h3>
-https://www.nature.com/articles/d41586-019-00653-5
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalgratis&label=Profile%20views&color=0e75b6&style=flat" alt="eternalgratis" /> </p>
 
